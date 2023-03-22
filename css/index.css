@@ -6624,7 +6624,7 @@ blockquote.pullquote.right {
   top: 0;
   left: 0;
   content: '回到顶部';
-  background-color: var(--lyx-theme);
+  background-color: #db9b34;
   -webkit-transition: all 0.3s;
   -moz-transition: all 0.3s;
   -o-transition: all 0.3s;

@@ -35,7 +35,7 @@ function scrollToTop(){
     btf.scrollToDest(0, 500);
 }
 //修复没有弄右键菜单的童鞋无法回顶部的问题
-document.getElementById("page-name").innerText = document.title.split(" | adongchong'blog")[0];}
+document.getElementById("page-name").innerText = document.title.split(" | 冬虫的博客")[0];}
 
 
 
